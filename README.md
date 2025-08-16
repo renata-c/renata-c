@@ -1,8 +1,8 @@
-## Olá! Eu sou a Renata 😊
+## Olá! Sou a Renata 😊
 
 🎓 Mestre em Física de Partículas | 👩🏻‍🏫 Instrutora de Power BI e Excel | 📊 Apaixonada por ciência de dados, análise de dados e descoberta de padrões
 
-Por aqui, compartilho meus projetos, estudos e experimentos usando Python, Power BI, Excel, e até um pouquinho de desenvolvimento web.
+Por aqui, compartilho meus projetos, estudos e experimentos usando Python, Power BI, Excel, e até um pouquinho de desenvolvimento web com Vanilla JS.
 
  <div>
    <a href="https://github.com/renata-c">
