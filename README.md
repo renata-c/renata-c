@@ -2,6 +2,8 @@
 📊 Data Analyst & Instructor (Power BI, Excel)  
 🤖 Focused on Data Science, Machine Learning and Applied AI
 
+---
+
 Here I share projects and experiments involving Python, data analysis, LLMs, and applied AI.
 
  <div>
