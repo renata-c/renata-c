@@ -1,8 +1,8 @@
-## Olá! Sou a Renata 😊
+🎓 MSc in Particle Physics  
+📊 Data Analyst & Instructor (Power BI, Excel)  
+🤖 Focused on Data Science, Machine Learning and Applied AI
 
-🎓 Mestre em Física de Partículas | 👩🏻‍🏫 Instrutora de Power BI e Excel | 📊 Apaixonada por ciência de dados, análise de dados e descoberta de padrões
-
-Por aqui, compartilho meus projetos, estudos e experimentos usando Python, Power BI, Excel, e até um pouquinho de desenvolvimento web com Vanilla JS.
+Here I share projects and experiments involving **Python**, **data analysis**, **statistical modeling**, **LLMs**, and **applied AI**.
 
  <div>
    <a href="https://github.com/renata-c">
@@ -16,16 +16,13 @@ Por aqui, compartilho meus projetos, estudos e experimentos usando Python, Power
   <img align="center" alt="NumPy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
   <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Power BI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
 <br>
 
 ---
 
-### Contato: 📬✨
+### 📬 Contact:
  
 <div>
   <a href = "mailto:renataferreira1898@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
