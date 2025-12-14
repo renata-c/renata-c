@@ -2,7 +2,7 @@
 📊 Data Analyst & Instructor (Power BI, Excel)  
 🤖 Focused on Data Science, Machine Learning and Applied AI
 
-Here I share projects and experiments involving **Python**, **data analysis**, **statistical modeling**, **LLMs**, and **applied AI**.
+Here I share projects and experiments involving Python, data analysis, LLMs, and applied AI.
 
  <div>
    <a href="https://github.com/renata-c">
