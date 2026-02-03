@@ -1,5 +1,5 @@
 🎓 MSc in Particle Physics  
-📊 Data Analyst & Instructor (Power BI, Excel)  
+📊 Data Analyst & Instructor (Power BI, Excel, IA)  
 🤖 Focused on Data Science, Machine Learning and Applied AI
 
 ---
