@@ -4,7 +4,7 @@
 
 ---
 
-Here I share projects and experiments involving Python, data analysis, LLMs, and applied AI.
+Here I share projects and experiments involving Python, EDA, LLMs, and applied AI.
 
  <div>
    <a href="https://github.com/renata-c">
