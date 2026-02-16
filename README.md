@@ -1,15 +1,15 @@
-🎓 MSc in Particle Physics  
-📊 Data Analyst & Instructor (Power BI, Excel, AI)  
-🤖 Focused on Data Science, Machine Learning and Applied AI
+🎓 Mestre em Física
+📊 Instrutora e Analista de Dados (Power BI, Excel, IA)
+🤖 Focada em Ciência de Dados, Machine Learning e IA Aplicada
 
 ---
 
-Here I share projects and experiments involving Python, EDA, LLMs, and applied AI.
+Aqui compartilho projetos e estudos em Python, EDA, LLMs e aplicações práticas de IA.
 
  <div>
    <a href="https://github.com/renata-c">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renata-c&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata-c&layout=compact&langs_count=6&theme=bear"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renata-c&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renata-c&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -24,7 +24,7 @@ Here I share projects and experiments involving Python, EDA, LLMs, and applied A
 
 ---
 
-### 📬 Contact:
+### 📬 Contato:
  
 <div>
   <a href = "mailto:renataferreira1898@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
