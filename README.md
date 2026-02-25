@@ -1,8 +1,6 @@
-🎓 Mestre em Física  
-📊 Foco em Ciência de Dados e Machine Learning  
-🤖 Experiência com análise de dados, modelagem e IA aplicada  
-
-Desenvolvo projetos em Python com foco em EDA, modelos preditivos e comunicação de resultados orientados a negócio.
+🔭 Mestre em Física pela PUC-Rio | Dados no experimento LHCb (CERN)
+📊 Transição para Análise/Ciência de Dados | Python, SQL, ML, Power BI
+🤖 Desenvolvendo projetos de estudo em EDA, modelos preditivos e IA aplicada a negócios
 
 ---
 
