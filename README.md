@@ -1,6 +1,7 @@
-🔭 Mestre em Física pela PUC-Rio | Dados no experimento LHCb (CERN)
-📊 Transição para Análise/Ciência de Dados | Python, SQL, ML, Power BI
-🤖 Desenvolvendo projetos de estudo em EDA, modelos preditivos e IA aplicada a negócios
+🔭 Mestre em Física pela PUC-Rio | Dados no experimento LHCb (CERN)<br>
+📊 Transição para Análise/Ciência de Dados | Python, SQL, ML, Power BI<br>
+
+Desenvolvo projetos de estudo em EDA, modelos preditivos e IA aplicada a negócios.
 
 ---
 
